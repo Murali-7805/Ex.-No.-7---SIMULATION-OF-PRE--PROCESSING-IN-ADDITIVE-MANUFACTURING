@@ -46,8 +46,8 @@
 ## Output:
 ![Uploading image.png…]()
 
-### Name:
-### Register Number:
+### Name:Murali Krishna.S
+### Register Number:23012882
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
